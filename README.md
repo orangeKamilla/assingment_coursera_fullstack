@@ -17,4 +17,5 @@ Tablet View:
 ![image](https://github.com/user-attachments/assets/4c3ca7ec-190c-41f8-832a-d7aa3709eb8c)
 
 Mobile View:
+
 ![image](https://github.com/user-attachments/assets/2f1a9ca7-57eb-4655-8a66-ff3ea6fa32bd)
